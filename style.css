@@ -4,9 +4,6 @@
     border: border-box;
     /* border-box--> border will be included in size of box */
 }
-/* body{
-display: flex;
-} */
 .navbar {
     height: 60px;
     background-color: #66d3d3;
